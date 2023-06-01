@@ -1,9 +1,9 @@
 // Variables
 
 // Connection
-var host = "10.1.1.33";
-var port = "50000";
-var pass = "control";
+var host = "172.16.0.2";
+var port = "1025";
+var pass = "1234";
 
 // Application
 var authenticated = false;
